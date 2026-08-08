@@ -1,6 +1,6 @@
 # AxiomMUD Engine
 
-## Current Version 07029
+## Current Version 07030
 
 * Java code-base, flat-file data storage.
 
@@ -16,6 +16,7 @@ Professions define gameplay identity, with systems supporting spellcasters, mart
 
 AxiomMUD includes extensive builder and administration tooling:
 
+* Craft System
 * World editors
 * Zone editors
 * Room editors

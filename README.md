@@ -1,6 +1,6 @@
 # AxiomMUD Engine
 
-## Current Version 07031
+## Current Version 07032
 
 * Java code-base, flat-file data storage.
 
@@ -16,7 +16,6 @@ Professions define gameplay identity, with systems supporting spellcasters, mart
 
 AxiomMUD includes extensive builder and administration tooling:
 
-* Craft System
 * World editors
 * Zone editors
 * Room editors
@@ -34,6 +33,7 @@ The Tithrius world built on top of AxiomMUD emphasizes atmosphere, mystery, and 
 
 Technically, AxiomMUD is designed as an object-oriented and extensible engine:
 
+* Craft System dependant on Object values
 * Spells, Songs, Effects, and Behaviors are modularized
 * Tick systems drive persistence and world simulation
 * Effects self-register and self-cleanup

@@ -1,6 +1,6 @@
 # AxiomMUD Engine
 
-## Current Version 07033
+## Current Version 07034
 
 * Java code-base, flat-file data storage.
 
@@ -33,6 +33,7 @@ The Tithrius world built on top of AxiomMUD emphasizes atmosphere, mystery, and 
 
 Technically, AxiomMUD is designed as an object-oriented and extensible engine:
 
+* Gathering system
 * Craft System dependant on Object values
 * Spells, Songs, Effects, and Behaviors are modularized
 * Tick systems drive persistence and world simulation

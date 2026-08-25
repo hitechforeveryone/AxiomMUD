@@ -1,6 +1,6 @@
 # AxiomMUD Engine
 
-## Current Version 07041
+## Current Version 07042
 
 * Java code-base, flat-file data storage.
 

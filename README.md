@@ -1,8 +1,8 @@
 # AxiomMUD Engine
 
 ## Current Stayable Version 07047
-Current Developer Version 07048
-Current Playable version v07047
+## Current Developer Version 07048a
+## Current Playable version v07047
 
 * Java code-base, flat-file data storage.
 

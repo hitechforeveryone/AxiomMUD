@@ -1,8 +1,9 @@
 # AxiomMUD Engine
 
-## Current Stayable Version 07047
-## Current Developer Version 07048a
-## Current Playable version v07047
+## Current Stable Version 07047
+## Current Dev Stable Version 07048a - Old Spells
+## Current Dev Working Version 07048b - New Spell Definition system
+## Current Playable Version v07047
 
 * Java code-base, flat-file data storage.
 

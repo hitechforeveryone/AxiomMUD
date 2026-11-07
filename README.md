@@ -1,9 +1,9 @@
 # AxiomMUD Engine
 
-## Current Stable Version 07047
-## Current Dev Stable Version 07048a - Old Spell System
-## Current Dev Working Version 07049b - New Spell Definition system, CLI
-## Current Playable Version v07047
+## Current Stable Version 07049b
+## Current Dev Stable Version 07049b - Old Spell System
+## Current Dev Working Version 07050 - Introduction System, Barbarian Profession
+## Current Playable Version v07049b
 
 * Java code-base, flat-file data storage.
 

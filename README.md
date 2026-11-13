@@ -1,7 +1,7 @@
 # AxiomMUD Engine
 
 ## Current Stable Version 07050  - Introduction System, Barbarian Profession
-## Current Dev Stable Version 07051 - Vision helper
+## Current Dev Stable Version 07051 - Vision handler
 ## Current Dev Working Version 07051
 ## Current Playable Version v07050
 

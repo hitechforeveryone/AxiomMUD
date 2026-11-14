@@ -1,9 +1,9 @@
 # AxiomMUD Engine
 
-## Current Stable Version 07050  - Introduction System, Barbarian Profession
-## Current Dev Stable Version 07051 - Vision handler
-## Current Dev Working Version 07051
-## Current Playable Version v07050
+## Current Stable Version 07051  - Vision Handler
+## Current Dev Stable Version 07052 - Room Terrains (Movement costs), Idle/Timeout Updates, Bank (vault size) and Buy (player encumbered) updates for Encumbered
+## Current Dev Working Version 07052
+## Current Playable Version v07051
 
 * Java code-base, flat-file data storage.
 
